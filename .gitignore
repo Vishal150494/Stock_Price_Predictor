@@ -1,0 +1,13 @@
+# Files Generated
+log.txt
+
+# Environment and Dependencies
+.venv/
+.env
+schedule_data_processing.egg-info/
+
+# Python artifacts
+__pycache__/
+tests/__pycache__/
+*.pyc
+.pytest_cache/
